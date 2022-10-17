@@ -6,6 +6,9 @@ Example xml:
 
 Example output:
 
-![image](https://user-images.githubusercontent.com/65347753/196168215-31328abf-6883-44cd-8750-c383202c141b.png)
-![image](https://user-images.githubusercontent.com/65347753/196168323-6e10d14b-dfed-4387-9778-fbc3ace79199.png)
+![image](https://user-images.githubusercontent.com/65347753/196168723-6efb2c84-c6ae-4284-a322-4174c3783a35.png)
+![image](https://user-images.githubusercontent.com/65347753/196168845-e2fbe6d6-7719-4a6a-982e-87935edc6414.png)
+
+
+
 
