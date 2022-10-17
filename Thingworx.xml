@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Entities>
+    <ExtensionPackages>
+        <ExtensionPackage dependsOn="" description="" minimumThingWorxVersion="9.1.0" name="untitled" packageVersion="1.0.0" vendor="">
+            <JarResources>
+                <FileResource description="" file="untitled.jar" type="JAR"/>
+            </JarResources>
+        </ExtensionPackage>
+    </ExtensionPackages>
+    <ThingPackages>
+        <ThingPackage className="FridgeThingTemplate" description="" name="FridgeThingTemplatePackage"/>
+    </ThingPackages>
+    <ThingTemplates>
+        <ThingTemplate aspect.isEditableExtensionObject="false" description="" name="FridgeThingTemplate" thingPackage="FridgeThingTemplatePackage"/>
+    </ThingTemplates>
+</Entities>
